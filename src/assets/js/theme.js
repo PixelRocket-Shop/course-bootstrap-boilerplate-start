@@ -1,0 +1,2 @@
+// Vendor import
+import 'bootstrap';
